@@ -3,5 +3,5 @@
 ### NAME : KOMMURI PARVESH
 
 
-#### Class Diagram for Observer Design Pattern.
+#### Class Diagram for Factory Design Pattern.
 <img src="https://github.com/kommuriparvesh/Week-2/blob/main/Week-2ClassDiagram.png">
