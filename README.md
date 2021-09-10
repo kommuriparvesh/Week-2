@@ -4,4 +4,4 @@
 
 
 #### Class Diagram for Observer Design Pattern.
-<img src="https://github.com/kommuriparvesh/week1/blob/main/classdiagram.png">
+<img src="https://github.com/kommuriparvesh/Week-2/blob/main/Week-2ClassDiagram.png">
