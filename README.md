@@ -1,4 +1,7 @@
-# Week-2
+# WEEK-2 Assignment. 
+### ID : L30064265
+### NAME : KOMMURI PARVESH
 
-###Name: Kommuri Parvesh
-###Id: L30064265
+
+#### Class Diagram for Observer Design Pattern.
+<img src="https://github.com/kommuriparvesh/week1/blob/main/classdiagram.png">
